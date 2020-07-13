@@ -5,5 +5,6 @@ The original datasets can be find on Snapchat [Website](https://www.snap.com/en-
 
 Snapchat is a multimedia messaging app used globally, created by Evan Spiegel, Bobby Murphy, and Reggie Brown, former students at Stanford University, and developed by Snap Inc., originally Snapchat Inc.
 
-Part1: Hypothesis testing (data cleaning, feature engineering) \n
+Part1: Hypothesis testing (data cleaning, feature engineering)
+
 Part2: Model Building (model selection, fitting and scoring)
